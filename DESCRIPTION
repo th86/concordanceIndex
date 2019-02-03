@@ -6,3 +6,4 @@ Author: Tai-Hsien, Ou Yang <to2232@columbia.edu>
 Depends: R (>= 3.3.1)
 Description: Evaluating the concordance index of a feature and the corresponding censored survival
 Archs: i386, x64
+RoxygenNote: 6.1.1.9000
